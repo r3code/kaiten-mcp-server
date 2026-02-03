@@ -24,3 +24,5 @@ logs/*.csv
 evaluations/custom-eval.xml
 evaluations/*-eval.xml
 !evaluations/kaiten-eval-template.xml
+
+.vscode/
